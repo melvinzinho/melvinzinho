@@ -2,7 +2,7 @@
 <h3 align="center">🎮 Game Dev Enthusiast | 🐍 Data Analysis | 💻 Web Development</h3>
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Melvin coding" width="400"/>
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Melvin coding" width="400"/>
 </div>
 
 ---
