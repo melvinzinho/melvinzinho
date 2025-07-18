@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melvin Calderon</h1>
-<h3 align="center">🎮 Game Dev Enthusiast | 🐍 Python Coder | 🌎 Language Learner</h3>
+<h3 align="center">🎮 Game Dev Enthusiast | 🐍 Data Analysis | 💻 Web Development</h3>
 
 <div align="center">
   <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Melvin coding" width="400"/>
@@ -11,9 +11,16 @@
 
 - 🔭 Currently building **a Domino game** and **Flappy Bird clone** using Pygame  
 - 🌱 Learning about **object-oriented programming, game loops, and API integrations**  
-- 🧩 Also exploring **comprehensible input + Anki flashcards** for language learning  
 - 💡 Always down to build cool tools that blend **code, creativity, and learning**  
-- 🎯 Goal: Become a game developer who makes learning fun
+
+---
+
+## 🎯 Goals for 2025
+
+- ✅ Build 5+ small games using Pygame
+- ✅ Launch a personal website/portfolio
+- 📚 Master object-oriented programming in Python
+- 🌍 Collaborate on open-source projects
 
 ---
 
@@ -21,7 +28,7 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Pygame_logo.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -54,16 +61,8 @@
 
 ---
 
-### 🔥 Motto
-
-> “Build small. Learn big. Make it fun.”
-
----
-
 ### 🌟 Featured Projects
 
-- 🎮 **Domino Game** – Logic-based tile game with CPU opponent (WIP)  
 - 🕹️ **Flappy Bird Clone** – Pygame remake with smooth animations and collision  
-- 🧠 **Anki Flashcard Generator** – Auto-generates learning cards with images, stories & review data
 
 ---
