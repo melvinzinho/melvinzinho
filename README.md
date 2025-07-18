@@ -48,21 +48,18 @@
 
 ---
 
-### 📫 Let's Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/melvin-calderon" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="linkedin" height="30" width="30"/>
-  </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" alt="twitter" height="30" width="30"/>
-  </a>
-</p>
-
----
-
 ### 🌟 Featured Projects
 
 - 🕹️ **Flappy Bird Clone** – Pygame remake with smooth animations and collision  
+
+---
+
+## 📫 Let's Connect!
+
+- 🐦 [Twitter](https://twitter.com/) (drop your username)
+- 💼 [LinkedIn](https://linkedin.com/in/) (drop your link)
+- 🌐 Personal Website (coming soon!)
+
+Thanks for stopping by! ⭐ If you like any of my work, feel free to follow or star a repo!
 
 ---
