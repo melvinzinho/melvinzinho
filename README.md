@@ -48,8 +48,6 @@ I am an **Accounting major** bridging the gap between financial precision and te
 
 ### 📊 GitHub Insights
 
-### 📊 GitHub Stats
-
 
 
 <p align="center">
