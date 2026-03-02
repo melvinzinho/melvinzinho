@@ -13,7 +13,7 @@ I am an **Accounting major** bridging the gap between financial precision and te
 
 - 🔭 **Strategic Focus:** Transitioning from foundational scripts to complex, event-driven software. Currently engineering a suite of **GUI-based desktop utilities** using **Tkinter** to master logic and state management.
 - 🌱 **Learning Path:** Merging the rigors of accounting with **Object-Oriented Programming (OOP)**, clean code principles, and advanced data visualization.
-- 💡 **Philosophy:** I believe in "Domain-Driven Development"—using my understanding of business data to build software that solves real-world problems.
+- 💡 **Philosophy:** I believe in "Domain-Driven Development" using my understanding of business data to build software that solves real-world problems.
 
 ---
 
@@ -49,24 +49,12 @@ I am an **Accounting major** bridging the gap between financial precision and te
 ### 📊 GitHub Insights
 
 
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=melvincode&show_icons=true&theme=tokyonight" alt="melvincode stats" />
-
-</p>
-
-
-
 <p align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=melvincode&theme=tokyonight" alt="GitHub streak" />
 
 </p>
 
-
-
----
 
 ---
 
