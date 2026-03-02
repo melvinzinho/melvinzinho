@@ -48,9 +48,27 @@ I am an **Accounting major** bridging the gap between financial precision and te
 
 ### 📊 GitHub Insights
 
+### 📊 GitHub Stats
+
+
+
 <p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=melvincode&show_icons=true&theme=tokyonight" alt="melvincode stats" />
+
 </p>
+
+
+
+<p align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melvincode&theme=tokyonight" alt="GitHub streak" />
+
+</p>
+
+
+
+---
 
 ---
 
